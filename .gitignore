@@ -64,3 +64,4 @@ dask-worker-space/
 .claude
 .cursor
 .mcp.json
+*.code-workspace
