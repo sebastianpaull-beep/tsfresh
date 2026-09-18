@@ -65,3 +65,12 @@ dask-worker-space/
 .cursor
 .mcp.json
 *.code-workspace
+
+# Handoff: locally generated workspace files (managed by sync-targets)
+tsfresh-*.code-workspace
+
+# Handoff: local Task brief (managed by sync-targets)
+.handoff/
+
+# Handoff: worktree copy-list artefacts (managed by sync-targets)
+.envrc
