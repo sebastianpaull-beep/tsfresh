@@ -74,3 +74,4 @@ tsfresh-*.code-workspace
 
 # Handoff: worktree copy-list artefacts (managed by sync-targets)
 .envrc
+.env
